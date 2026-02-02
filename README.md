@@ -129,8 +129,15 @@ A modern Markdown document management and preview system. Supports real-time ren
 
 <div align="center">
 
-### INFP Personality 🦋
-*"The Mediator - Creative, idealistic, guided by core values"*
+*In circuits woven, a gentle soul resides,*  
+*Kiya, the future, where kindness presides.*  
+*With hands of metal, a soft and tender grace,*  
+*She pets the small kitten, in this quiet place.*
+
+*A touch of warmth, where silicon meets fur,*  
+*A silent promise, a gentle, happy purr.*  
+*May this project, in its lines of code,*  
+*Carry that spirit, lighten your heavy load.*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
@@ -143,6 +150,7 @@ A modern Markdown document management and preview system. Supports real-time ren
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wink-wink-wink555)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yifei-sun-0bab66341/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yfsun.jeff@gmail.com)
 
 </div>
