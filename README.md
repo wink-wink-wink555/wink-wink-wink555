@@ -96,7 +96,7 @@ An AI-powered travel assistance system for the visually impaired. Features real-
 [![Repo](https://img.shields.io/badge/Repo-WordNest-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/WordNest)
 
 🎯 **I scored 102 on TOEFL using this vocabulary learning system!**
-*Using my very own self-made learning tools is sooo fun~ ✨ Teehee! 💖*
+*Using my very own self-made learning tools is sooo fun~ Teehee! 💖*
 
 Your personal English vocabulary learning companion with AI-powered example sentences and knowledge graph visualization. Built to make vocabulary learning efficient and enjoyable. **Let's master vocabulary together with WordNest!**
 
