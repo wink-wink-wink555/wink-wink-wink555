@@ -20,9 +20,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**Name:** wink-wink-wink555  
-**Location:** Shanghai, China 🇨🇳  
-**Role:** University Student | AI Developer & Enthusiast  
+**Name:** wink-wink-wink555 (Jeffrey Sun) 
+**Location:** Shanghai, PRC  
+**Role:** University Student | Data Science
 **MBTI:** INFP 🦋  
 
 **Interests:**
