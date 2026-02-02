@@ -1,11 +1,13 @@
 <div align="center">
 
+<!-- Dynamic Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+wink-wink-wink555+%F0%9F%91%8B;AI+Enthusiast+%7C+Full+Stack+Developer;Currently+Studying+in+Shanghai)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 <br>
 
+<!-- Profile Views & Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=wink-wink-wink555&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/wink-wink-wink555?style=for-the-badge&logo=github&color=6C63FF)](https://github.com/wink-wink-wink555?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/wink-wink-wink555?style=for-the-badge&logo=github&color=yellow)](https://github.com/wink-wink-wink555?tab=repositories)
@@ -57,11 +59,6 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### Data Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 
 ### Databases & Vector Stores
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
