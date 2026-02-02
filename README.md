@@ -84,8 +84,8 @@
 ### 👁️ Blind Navigation
 [![Repo](https://img.shields.io/badge/Repo-blind__navigation-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/blind_navigation)
 
-🏆 **Intel AI Competition - Top 10 (Global Finals)**  
-🥉 **CCCC 2025 - Third Prize (National Level)**
+🏆 **Intel AI Competition - Top 10**  
+🥉 **CCCC 2025 - Third Prize**
 
 An AI-powered travel assistance system for the visually impaired. Features real-time tactile paving detection with YOLO, personalized voice guidance using Ollama, and an AI map assistant powered by DeepSeek to help users navigate safely and independently.
 
