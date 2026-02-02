@@ -97,8 +97,10 @@ An AI-powered travel assistance system for the visually impaired. Features real-
 
 🎯 **I scored 102 on TOEFL using this vocabulary learning system!**
 
-Your personal English vocabulary learning companion with AI-powered example sentences and knowledge graph visualization. Built to make vocabulary learning efficient and enjoyable. **Let's master vocabulary together with WordNest!**
 *It's so fun using my own self-made study tool (//v//)*
+
+Your personal English vocabulary learning companion with AI-powered example sentences and knowledge graph visualization. Built to make vocabulary learning efficient and enjoyable. **Let's master vocabulary together with WordNest!**
+
 
 </td>
 </tr>
