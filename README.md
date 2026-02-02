@@ -20,7 +20,6 @@
 **Name:** wink-wink-wink555 (Jeffrey Sun)  
 **Role:** University Student  
 **Major:** Data Science  
-**MBTI:** INFP 🦋  
 
 **Interests:**
 - 🤖 Artificial Intelligence & Machine Learning
