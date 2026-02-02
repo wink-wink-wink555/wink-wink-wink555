@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**Name:** wink-wink-wink555 (Jeffrey Sun)
+**Name:** wink-wink-wink555
 **Role:** University Student
 **Major:** Data Science  
 **MBTI:** INFP 🦋  
