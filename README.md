@@ -20,25 +20,23 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```yaml
-name: wink-wink-wink555
-location: Shanghai, China 🇨🇳
-role: University Student | AI Developer & Enthusiast
-mbti: INFP 🦋
-interests:
-  - 🤖 Artificial Intelligence & Machine Learning
-  - 📚 RAG (Retrieval-Augmented Generation)
-  - 🔌 MCP (Model Context Protocol)
-  - 👁️ YOLO & Computer Vision
-  - 🧠 Large Language Models
-```
+**Name:** wink-wink-wink555  
+**Location:** Shanghai, China 🇨🇳  
+**Role:** University Student | AI Developer & Enthusiast  
+**MBTI:** INFP 🦋  
 
-### 🎯 What I'm Up To
+**Interests:**
+- 🤖 Artificial Intelligence & Machine Learning
+- 📚 RAG (Retrieval-Augmented Generation)
+- 🔌 MCP (Model Context Protocol)
+- 👁️ YOLO & Computer Vision
+- 🧠 Large Language Models
 
-- 🎓 Currently studying in **Shanghai**
-- 🔭 Building **AI-powered applications** (RAG, Computer Vision, Chatbots)
-- 🌱 Exploring **RAG systems**, **LLM integrations**, and **Model Context Protocol**
-- 👯 Open to collaborate on **AI/ML projects**
+**Currently:**
+- 🎓 Studying in Shanghai
+- 🔭 Building AI-powered applications (RAG, Computer Vision, Chatbots)
+- 🌱 Exploring RAG systems, LLM integrations, and Model Context Protocol
+- 👯 Open to collaborate on AI/ML projects
 - ⚡ Fun fact: Turning coffee into AI models ☕ → 🤖
 
 <br clear="both">
@@ -96,13 +94,7 @@ interests:
 🏆 **Intel AI Competition - Top 10 (Global Finals)**  
 🥉 **CCCC 2025 - Third Prize (National Level)**
 
-A Travel Assistance System for the Visually Impaired powered by AI, featuring:
-- 🎥 Real-time tactile paving detection with **YOLO**
-- 🔊 Personalized voice guidance using **Ollama (Qwen2.5:3b)**
-- 🤖 AI Map Assistant with **DeepSeek AI**
-- 📍 Location sharing for safety
-
-**Tech Stack:** YOLO, Ollama, DeepSeek, Flask, Baidu Map API
+An AI-powered travel assistance system for the visually impaired. Features real-time tactile paving detection with YOLO, personalized voice guidance using Ollama, and an AI map assistant powered by DeepSeek to help users navigate safely and independently.
 
 </td>
 <td width="50%">
@@ -110,15 +102,9 @@ A Travel Assistance System for the Visually Impaired powered by AI, featuring:
 ### 📚 WordNest
 [![Repo](https://img.shields.io/badge/Repo-WordNest-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/WordNest)
 
-Your personal English vocabulary learning system!
+🎯 **I scored 102 on TOEFL using this vocabulary learning system!**
 
-- 📝 Personal vocabulary notebook (only your words!)
-- 🤖 AI-powered example sentences with **Ollama + Qwen**
-- 🕸️ Knowledge graph visualization with **DeepSeek**
-- 🎨 Beautiful UI with dark mode support
-- 📊 CSV export for data backup
-
-**Tech Stack:** Flask, Ollama, DeepSeek, SQLite, Vis.js
+Your personal English vocabulary learning companion with AI-powered example sentences and knowledge graph visualization. Built to make vocabulary learning efficient and enjoyable. **Let's master vocabulary together with WordNest!**
 
 </td>
 </tr>
@@ -129,15 +115,7 @@ Your personal English vocabulary learning system!
 ### 💝 PsyChat
 [![Repo](https://img.shields.io/badge/Repo-PsyChat-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/PsyChat)
 
-An intelligent AI psychological counseling assistant based on RAG.
-
-- 🧠 Smart **Agent** decision-making system
-- 📚 Professional psychology knowledge base
-- 🔄 Continuous conversation monitoring
-- 💡 Intelligent query rewriting
-- 🎯 REBT (Rational Emotive Behavior Therapy) approach
-
-**Tech Stack:** FastAPI, DeepSeek, ChromaDB, Alibaba Embedding
+An intelligent AI psychological counseling assistant based on RAG technology. Features smart agent decision-making, professional psychology knowledge base, and REBT approach to provide empathetic and professional mental health support.
 
 </td>
 <td width="50%">
@@ -145,16 +123,7 @@ An intelligent AI psychological counseling assistant based on RAG.
 ### ✨ MarkiNote
 [![Repo](https://img.shields.io/badge/Repo-MarkiNote-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/MarkiNote)
 
-A modern Markdown document management and preview system.
-
-- 📝 Real-time Markdown rendering
-- 📂 File & folder management
-- 🎨 LaTeX math formula support with **MathJax**
-- 🌈 Mermaid diagram rendering
-- 🌙 Dark mode support
-- 📸 Export to image
-
-**Tech Stack:** Flask, MathJax, Mermaid, BeautifulSoup4
+A modern Markdown document management and preview system. Supports real-time rendering, LaTeX math formulas with MathJax, Mermaid diagrams, dark mode, and image export for a seamless documentation experience.
 
 </td>
 </tr>
