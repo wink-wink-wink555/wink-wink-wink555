@@ -78,12 +78,6 @@
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-### 🚀 My Representative Works
-
-</div>
-
 <table>
 <tr>
 <td width="50%">
