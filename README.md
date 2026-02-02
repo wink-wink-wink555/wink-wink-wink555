@@ -18,30 +18,28 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 ```yaml
 name: wink-wink-wink555
 location: Shanghai, China 🇨🇳
-role: AI Developer & Enthusiast
+role: University Student | AI Developer & Enthusiast
 mbti: INFP 🦋
 interests:
-  - 🤖 Artificial Intelligence
+  - 🤖 Artificial Intelligence & Machine Learning
   - 📚 RAG (Retrieval-Augmented Generation)
   - 🔌 MCP (Model Context Protocol)
   - 👁️ YOLO & Computer Vision
   - 🧠 Large Language Models
-currently_learning: Always exploring the latest in AI!
-fun_fact: "Turning coffee into AI models ☕ → 🤖"
 ```
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+### 🎯 What I'm Up To
 
-### 🎯 What I Do
-
-- 🔭 Working on **AI-powered applications**
-- 🌱 Deep diving into **RAG systems** and **LLM integrations**
+- 🎓 Currently studying in **Shanghai**
+- 🔭 Building **AI-powered applications** (RAG, Computer Vision, Chatbots)
+- 🌱 Exploring **RAG systems**, **LLM integrations**, and **Model Context Protocol**
 - 👯 Open to collaborate on **AI/ML projects**
-- 💬 Ask me about **RAG, MCP, YOLO, LLMs**
-- ⚡ Fun fact: I believe AI will change the world!
+- ⚡ Fun fact: Turning coffee into AI models ☕ → 🤖
 
 <br clear="both">
 
@@ -55,6 +53,7 @@ fun_fact: "Turning coffee into AI models ☕ → 🤖"
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### AI & Machine Learning
@@ -67,8 +66,7 @@ fun_fact: "Turning coffee into AI models ☕ → 🤖"
 ### Databases & Vector Stores
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -80,61 +78,90 @@ fun_fact: "Turning coffee into AI models ☕ → 🤖"
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Featured Projects
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wink-wink-wink555&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wink-wink-wink555&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+### 🚀 My Representative Works
 
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wink-wink-wink555&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)](https://git.io/streak-stats)
+<table>
+<tr>
+<td width="50%">
 
-</div>
+### 👁️ Blind Navigation
+[![Repo](https://img.shields.io/badge/Repo-blind__navigation-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/blind_navigation)
+
+🏆 **Intel AI Competition - Top 10 (Global Finals)**  
+🥉 **CCCC 2025 - Third Prize (National Level)**
+
+A Travel Assistance System for the Visually Impaired powered by AI, featuring:
+- 🎥 Real-time tactile paving detection with **YOLO**
+- 🔊 Personalized voice guidance using **Ollama (Qwen2.5:3b)**
+- 🤖 AI Map Assistant with **DeepSeek AI**
+- 📍 Location sharing for safety
+
+**Tech Stack:** YOLO, Ollama, DeepSeek, Flask, Baidu Map API
+
+</td>
+<td width="50%">
+
+### 📚 WordNest
+[![Repo](https://img.shields.io/badge/Repo-WordNest-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/WordNest)
+
+Your personal English vocabulary learning system!
+
+- 📝 Personal vocabulary notebook (only your words!)
+- 🤖 AI-powered example sentences with **Ollama + Qwen**
+- 🕸️ Knowledge graph visualization with **DeepSeek**
+- 🎨 Beautiful UI with dark mode support
+- 📊 CSV export for data backup
+
+**Tech Stack:** Flask, Ollama, DeepSeek, SQLite, Vis.js
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💝 PsyChat
+[![Repo](https://img.shields.io/badge/Repo-PsyChat-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/PsyChat)
+
+An intelligent AI psychological counseling assistant based on RAG.
+
+- 🧠 Smart **Agent** decision-making system
+- 📚 Professional psychology knowledge base
+- 🔄 Continuous conversation monitoring
+- 💡 Intelligent query rewriting
+- 🎯 REBT (Rational Emotive Behavior Therapy) approach
+
+**Tech Stack:** FastAPI, DeepSeek, ChromaDB, Alibaba Embedding
+
+</td>
+<td width="50%">
+
+### ✨ MarkiNote
+[![Repo](https://img.shields.io/badge/Repo-MarkiNote-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/MarkiNote)
+
+A modern Markdown document management and preview system.
+
+- 📝 Real-time Markdown rendering
+- 📂 File & folder management
+- 🎨 LaTeX math formula support with **MathJax**
+- 🌈 Mermaid diagram rendering
+- 🌙 Dark mode support
+- 📸 Export to image
+
+**Tech Stack:** Flask, MathJax, Mermaid, BeautifulSoup4
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=wink-wink-wink555&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wink-wink-wink555/wink-wink-wink555/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wink-wink-wink555/wink-wink-wink555/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wink-wink-wink555/wink-wink-wink555/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-<div align="center">
-
-<!-- 替换下面的repo名称为你实际的项目仓库 -->
-<!-- 示例：如果你有一个叫 my-rag-project 的仓库，就改成 &repo=my-rag-project -->
-
-### 🚀 Explore My Repositories Below!
-
-</div>
-
-> 💡 *Check out my repositories for more AI projects including RAG systems, MCP integrations, and YOLO implementations!*
-
----
 
 ## 🎵 Vibes
 
