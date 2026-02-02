@@ -107,11 +107,15 @@ fun_fact: "Turning coffee into AI models ☕ → 🤖"
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/wink-wink-wink555/wink-wink-wink555/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wink-wink-wink555/wink-wink-wink555/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wink-wink-wink555/wink-wink-wink555/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wink-wink-wink555/wink-wink-wink555/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -121,7 +125,10 @@ fun_fact: "Turning coffee into AI models ☕ → 🤖"
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wink-wink-wink555&repo=wink-wink-wink555&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/wink-wink-wink555/wink-wink-wink555)
+<!-- 替换下面的repo名称为你实际的项目仓库 -->
+<!-- 示例：如果你有一个叫 my-rag-project 的仓库，就改成 &repo=my-rag-project -->
+
+### 🚀 Explore My Repositories Below!
 
 </div>
 
@@ -147,7 +154,7 @@ fun_fact: "Turning coffee into AI models ☕ → 🤖"
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wink-wink-wink555)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yfsun.gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yfsun.jeff@gmail.com)
 
 <br>
 
