@@ -80,6 +80,12 @@ interests:
 
 ## 🌟 Featured Projects
 
+<div align="center">
+
+### 🚀 My Representative Works
+
+</div>
+
 <table>
 <tr>
 <td width="50%">
@@ -104,7 +110,13 @@ A Travel Assistance System for the Visually Impaired powered by AI, featuring:
 ### 📚 WordNest
 [![Repo](https://img.shields.io/badge/Repo-WordNest-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/WordNest)
 
-个人化的英语词汇学习系统，结合AI生成例句和知识图谱可视化。
+Your personal English vocabulary learning system!
+
+- 📝 Personal vocabulary notebook (only your words!)
+- 🤖 AI-powered example sentences with **Ollama + Qwen**
+- 🕸️ Knowledge graph visualization with **DeepSeek**
+- 🎨 Beautiful UI with dark mode support
+- 📊 CSV export for data backup
 
 **Tech Stack:** Flask, Ollama, DeepSeek, SQLite, Vis.js
 
@@ -117,7 +129,13 @@ A Travel Assistance System for the Visually Impaired powered by AI, featuring:
 ### 💝 PsyChat
 [![Repo](https://img.shields.io/badge/Repo-PsyChat-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/PsyChat)
 
-基于RAG的智能心理咨询助手，运用专业心理学知识库和REBT疗法提供支持。
+An intelligent AI psychological counseling assistant based on RAG.
+
+- 🧠 Smart **Agent** decision-making system
+- 📚 Professional psychology knowledge base
+- 🔄 Continuous conversation monitoring
+- 💡 Intelligent query rewriting
+- 🎯 REBT (Rational Emotive Behavior Therapy) approach
 
 **Tech Stack:** FastAPI, DeepSeek, ChromaDB, Alibaba Embedding
 
@@ -127,7 +145,14 @@ A Travel Assistance System for the Visually Impaired powered by AI, featuring:
 ### ✨ MarkiNote
 [![Repo](https://img.shields.io/badge/Repo-MarkiNote-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/MarkiNote)
 
-现代化的Markdown文档管理和预览系统，支持LaTeX公式和Mermaid图表渲染。
+A modern Markdown document management and preview system.
+
+- 📝 Real-time Markdown rendering
+- 📂 File & folder management
+- 🎨 LaTeX math formula support with **MathJax**
+- 🌈 Mermaid diagram rendering
+- 🌙 Dark mode support
+- 📸 Export to image
 
 **Tech Stack:** Flask, MathJax, Mermaid, BeautifulSoup4
 
@@ -145,12 +170,6 @@ A Travel Assistance System for the Visually Impaired powered by AI, featuring:
 ### INFP Personality 🌸
 *"The Mediator - Creative, idealistic, guided by core values"*
 
-💡 **Passion for Inclusive AI**  
-我特别关注AI技术如何赋能弱势群体：
-- 🦯 为视障人士开发出行辅助系统
-- 💚 为有心理健康需求的人群提供AI心理咨询工具
-- 🌍 相信技术应该服务于每一个人，让世界更美好
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 
 </div>
@@ -163,5 +182,9 @@ A Travel Assistance System for the Visually Impaired powered by AI, featuring:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wink-wink-wink555)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yfsun.jeff@gmail.com)
+
+<br>
+
+### 💬 Feel free to reach out for collaborations or just a friendly chat about AI!
 
 </div>
