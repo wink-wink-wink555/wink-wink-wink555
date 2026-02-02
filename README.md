@@ -26,7 +26,7 @@
 
 **Interests:**
 - 🤖 Artificial Intelligence & Machine Learning
-- 👁️ YOLO & Computer Vision
+- 👁️ Computer Vision
 - 🧠 Large Language Models
 
 **Currently:**
