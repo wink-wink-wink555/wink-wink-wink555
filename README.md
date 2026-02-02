@@ -7,8 +7,6 @@
 
 <br>
 
-<!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=wink-wink-wink555&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/wink-wink-wink555?style=for-the-badge&logo=github&color=6C63FF)](https://github.com/wink-wink-wink555?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/wink-wink-wink555?style=for-the-badge&logo=github&color=yellow)](https://github.com/wink-wink-wink555?tab=repositories)
 
