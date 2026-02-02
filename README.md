@@ -34,10 +34,9 @@
 
 **Currently:**
 - 🎓 Studying in Shanghai
-- 🔭 Building AI-powered applications (RAG, Computer Vision, Chatbots)
-- 🌱 Exploring RAG systems, LLM integrations, and Model Context Protocol
+- 🔭 Building AI-powered applications
+- 🌱 Looking into more cool tech
 - 👯 Open to collaborate on AI/ML projects
-- ⚡ Fun fact: Turning coffee into AI models ☕ → 🤖
 
 <br clear="both">
 
