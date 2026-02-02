@@ -20,10 +20,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**Name:** wink-wink-wink555 (Jeffrey Sun) 
-**Location:** Shanghai, PRC  
-**Role:** University Student | Data Science
-**MBTI:** INFP 🦋  
+**Name:** wink-wink-wink555  
+**Location:** Shanghai, China 🇨🇳  
+**Role:** University Student | Data Science  
+**MBTI:** INFP 🦋  
 
 **Interests:**
 - 🤖 Artificial Intelligence & Machine Learning
@@ -65,6 +65,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Data Analysis
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -84,8 +89,8 @@
 ### 👁️ Blind Navigation
 [![Repo](https://img.shields.io/badge/Repo-blind__navigation-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/blind_navigation)
 
-🏆 **Intel AI Competition - Top 10**  
-🥉 **CCCC 2025 - Third Prize**
+🏆 **Intel AI Competition - Top 10 (Global Finals)**  
+🥉 **CCCC 2025 - Third Prize (National Level)**
 
 An AI-powered travel assistance system for the visually impaired. Features real-time tactile paving detection with YOLO, personalized voice guidance using Ollama, and an AI map assistant powered by DeepSeek to help users navigate safely and independently.
 
@@ -96,10 +101,8 @@ An AI-powered travel assistance system for the visually impaired. Features real-
 [![Repo](https://img.shields.io/badge/Repo-WordNest-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/WordNest)
 
 🎯 **I scored 102 on TOEFL using this vocabulary learning system!**
-*Using my very own self-made learning tools is sooo fun~ Teehee!* (//w//)
 
 Your personal English vocabulary learning companion with AI-powered example sentences and knowledge graph visualization. Built to make vocabulary learning efficient and enjoyable. **Let's master vocabulary together with WordNest!**
-
 
 </td>
 </tr>
@@ -131,14 +134,14 @@ A modern Markdown document management and preview system. Supports real-time ren
 
 <div align="center">
 
-*In circuits woven, a gentle soul resides,*  
-*Kiya, the future, where kindness presides.*  
-*With hands of metal, a soft and tender grace,*  
+*In circuits woven, a gentle soul resides,*  
+*Kiya, the future, where kindness presides.*  
+*With hands of metal, a soft and tender grace,*  
 *She pets the small kitten, in this quiet place.*
 
-*A touch of warmth, where silicon meets fur,*  
-*A silent promise, a gentle, happy purr.*  
-*May this project, in its lines of code,*  
+*A touch of warmth, where silicon meets fur,*  
+*A silent promise, a gentle, happy purr.*  
+*May this project, in its lines of code,*  
 *Carry that spirit, lighten your heavy load.*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
