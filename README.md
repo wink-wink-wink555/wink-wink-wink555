@@ -87,8 +87,8 @@
 ### 👁️ Blind Navigation
 [![Repo](https://img.shields.io/badge/Repo-blind__navigation-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/blind_navigation)
 
-🏆 **Intel AI Competition - Top 10 (Global Finals)**  
-🥉 **CCCC 2025 - Third Prize (National Level)**
+🏆 **Intel AI Competition - Top 10**  
+🥉 **CCCC 2025 - Third Prize**
 
 An AI-powered travel assistance system for the visually impaired. Features real-time tactile paving detection with YOLO, personalized voice guidance using Ollama, and an AI map assistant powered by DeepSeek to help users navigate safely and independently.
 
@@ -99,7 +99,8 @@ An AI-powered travel assistance system for the visually impaired. Features real-
 [![Repo](https://img.shields.io/badge/Repo-WordNest-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/WordNest)
 
 🎯 **I scored 102 on TOEFL using this vocabulary learning system!**  
-*Using my very own self-made learning tools is sooo fun~ Teehee!* 💖  
+*Using my very own self-made learning tools is sooo fun!* ✨  
+
 Your personal English vocabulary learning companion with AI-powered example sentences and knowledge graph visualization. Built to make vocabulary learning efficient and enjoyable. **Let's master vocabulary together with WordNest!**
 
 </td>
