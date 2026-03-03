@@ -83,7 +83,7 @@
 <tr>
 <td width="50%">
 
-### 👁️ Blind Navigation
+### 👁️ Blind Navigation (ARIADNE)
 [![Repo](https://img.shields.io/badge/Repo-blind__navigation-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/blind_navigation)
 
 🏆 **Intel AI Competition - Top 10**  
