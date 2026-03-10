@@ -89,7 +89,7 @@
 🏆 **Intel AI Competition - Top 10**  
 🥉 **CCCC 2025 - Third Prize**
 
-An AI-powered travel assistance system for the visually impaired. Features real-time tactile paving detection with YOLO, personalized voice guidance using Ollama, and an AI map assistant powered by DeepSeek to help users navigate safely and independently.
+An AI-powered travel assistance system for the visually impaired. Features real-time tactile paving detection with YOLO, personalized voice guidance using Ollama, and a Multi-Agent AI Assistant powered by DeepSeek to help users navigate safely and independently.
 
 </td>
 <td width="50%">
