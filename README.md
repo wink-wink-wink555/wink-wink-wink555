@@ -119,7 +119,7 @@ An intelligent AI psychological counseling assistant based on RAG technology. Fe
 ### ✨ MarkiNote
 [![Repo](https://img.shields.io/badge/Repo-MarkiNote-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/MarkiNote)
 
-✨ **Strongly recommend! Let your AI Agent take care of all your local Markdown files~ So handy!** 🤖
+✨ **Big big recommend! Let your AI Agent take care of all your locally uploaded Markdown files~ So handy!** 🤖
 
 An AI Agent-powered Markdown Document Management & Reading System. The AI Agent understands your intent and autonomously invokes 11 different tools to read, create, edit, delete, move files, and even search the web or fetch webpage content.
 
