@@ -109,6 +109,8 @@ Your personal English vocabulary learning companion with AI-powered example sent
 ### 💝 PsyChat
 [![Repo](https://img.shields.io/badge/Repo-PsyChat-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/PsyChat)
 
+💫 **Low on compute? Give this project a whirl~** ✨🚀
+
 An intelligent AI psychological counseling assistant based on RAG technology. Features smart agent decision-making, professional psychology knowledge base, and REBT approach to provide empathetic and professional mental health support.
 
 </td>
@@ -117,7 +119,9 @@ An intelligent AI psychological counseling assistant based on RAG technology. Fe
 ### ✨ MarkiNote
 [![Repo](https://img.shields.io/badge/Repo-MarkiNote-6C63FF?style=for-the-badge&logo=github)](https://github.com/wink-wink-wink555/MarkiNote)
 
-A modern Markdown document management and preview system. Supports real-time rendering, LaTeX math formulas with MathJax, Mermaid diagrams, dark mode, and image export for a seamless documentation experience.
+✨ **Strongly recommend! Let your AI Agent take care of all your local Markdown files~ So handy!** 🤖
+
+An AI Agent-powered Markdown Document Management & Reading System. The AI Agent understands your intent and autonomously invokes 11 different tools to read, create, edit, delete, move files, and even search the web or fetch webpage content.
 
 </td>
 </tr>
